@@ -708,4 +708,10 @@ ul.courses li:hover {
         display: block;
         opacity: 1 !important;
     }
+
+    .content{
+        text-align: justify;
+        float: left;
+        color: #5CB85C;
+    }
 }
